@@ -7,7 +7,7 @@ layout: default
 ### À propos de moi
 
 
-<img src="/assets/images/vanillasky.png" alt="Tom Cruise, Vanilla Sky, 2001" width="20%">
+<img src="assets/images/vanillasky.png" alt="Tom Cruise, Vanilla Sky, 2001" width="20%">
 
 ### Etudiant à epitech depuis novembre 2025, passioné de cinéma, de football ainsi que de mode. Ce site à pour but de me présenter ainsi que vous faire découvrir mes experiences et projets.
 
