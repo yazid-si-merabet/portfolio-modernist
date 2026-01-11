@@ -3,10 +3,6 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue 👋
+# A propos de moi 👋
 
-Ceci est mon site avec le thème **Modernist**.
-
-- Créé avec GitHub Pages
-- Écrit en Markdown
-- Thème officiel
+Etudiant à epitech depuis novembre 2025, passioné de cinéma, de football ainsi que de mode. Ce site à pour but de me présenter ainsi que vous faire découvrir mes experiences et projets.
